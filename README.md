@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Okello Kevin Otieno
-- 👀 I’m interested in cutting edge technology that improves and support life in the Planet Earth
+- 👀 I’m interested in cutting edge technology that improves and support human life
 - 🌱 I’m currently learning Software Engineering With ALX Africa
-- 💞️ I’m looking to collaborate on Techologies that improves the human
+- 💞️ I’m looking to collaborate on Techologies that improves the human well being
 - 📫 How to reach me : allankevin22@gmail.com/okello.k.otieno@gmail.com/ https://www.linkedin.com/in/okello-kevin/ https://twitter.com/kevinkregs
 
 <!---
