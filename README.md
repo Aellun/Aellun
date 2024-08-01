@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Okello Kevin Otieno
+- 👋 Hi, I’m Okello Kevin
 - 👀 I’m interested in cutting edge technology that improves and support human life
 - 🌱 I’m currently learning Software Engineering With ALX Africa
 - 💞️ I’m looking to collaborate on Techologies that improves the human well being
